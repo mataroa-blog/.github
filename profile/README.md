@@ -4,7 +4,7 @@
 
 Mataroa is:
 
-* open source
+* [open source](https://github.com/mataroa-blog/mataroa)
 * [privacy-conscious](https://mataroa.blog/modus/operandi/)
 * [data-interoperability-conscious](https://mataroa.blog/export/)
 
