@@ -1,4 +1,4 @@
-# [mataroa.blog](https://mataroa.blog/)
+# mataroa.blog
 
 [Mataroa](https://mataroa.blog/) is a naked blogging platform for minimalists.
 
